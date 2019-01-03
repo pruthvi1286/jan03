@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DECLARE>
+<PhysicalColumn name="AO_MANAGER_APPROVAL_INITIALS_1" parentName="&quot;APEX&quot;..&quot;EPSBI_APEX&quot;.&quot;BALANCE_RECON&quot;" parentId="3001:875856" parentUid="c0000001-f653-167a-b52f-0a17405a0000" id="3003:875858" uid="c0000003-f653-167a-b52f-0a17405a0000" dataType="VARCHAR" precision="256" nullable="true" specialType="none">
+</PhysicalColumn>
+
+</DECLARE>
+</Repository>
